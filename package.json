@@ -1,6 +1,7 @@
 {
   "name": "javascript-everywhere",
   "version": "1.0.0",
+  "type": "module",
   "description": "Working on data structures in JS",
   "main": "01-memoization.js",
   "scripts": {
